@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+Thumbs.db*
+.DS_Store*
+HELP.md
+.gradle
+build/
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+out/
+target/
